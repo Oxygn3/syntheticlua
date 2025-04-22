@@ -1,0 +1,2 @@
+echo '{}' > keys.json
+echo '{ "admin": "luaGod123" }' > users.json
